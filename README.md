@@ -1,65 +1,65 @@
 
-  # test
+  # README-Generator
 
-  ![license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-  ##Description
+  ## Description
 
 
   undefined
 
 
-  ##Table of Contents
+  ## Table of Contents
 
 
-  --[Installation](#Installation)
+  -- [Installation](#Installation)
 
-  --[Usage](#Usage)
+  -- [Usage](#Usage)
 
-  --[Contribution](#Contributing)
+  -- [Contribution](#Contributing)
 
-  --[Test](#Test)
+  -- [Test](#Test)
 
-  --[License](#License)
-
-
-  ##Installation
+  -- [License](#License)
 
 
-  test
+  ## Installation
 
 
-  ##Usage
+  npm install inquirer@8.2.4
 
 
-  test
+  ## Usage
 
 
-  ##Contributing
+  screenshot of prompts
 
 
-  test
+  ## Contributing
 
 
-  ##Test
+  all by myself
 
 
-  test
+  ## Test
 
 
-  ##License
+  test test 1 2 3
 
 
-  (https://opensource.org/licenses/Apache-2.0)
-
-  This application is licensed under Apache License, Version 2.0
+  ## License
 
 
-  ##Questions
+  (https://opensource.org/licenses/MIT)
+
+  This application is licensed under The MIT License
 
 
-  [GitHub:](https:github.com/jystyn)
+  ## Questions
 
-  [E-Mail:](mailto:justyn.helgeson@gmail.com)
+
+  [GitHub](https:github.com/jystyn)
+
+  [E-Mail](mailto:justyn.helgeson@gmail.com)
 
