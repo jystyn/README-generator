@@ -1,5 +1,5 @@
 
-  # README-Generator
+  # README-generator
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -7,7 +7,7 @@
   ## Description
 
 
-  undefined
+  In this application, the user recieves a series of prompts to create a README file. The user is asked for a title, description, installation and usage instructions, as well as a list of contributions and a test section. The user is also asked for their GitHub username and Email address to  create links to those at the bottom of the page.
 
 
   ## Table of Contents
@@ -27,25 +27,26 @@
   ## Installation
 
 
-  npm install inquirer@8.2.4
+  clone this repository and open in VS Code. With the file open in your terminal, enter node index.js to receive the prompts to make the README file.
 
 
   ## Usage
 
 
-  screenshot of prompts
+  ![README-generator-screenshot](./utils/README-generator-screenshot.png)
+  [Demo](https://drive.google.com/file/d/1ZoxOXcg0whqYLVceZAtBcLbHg3SSsKf2/view)
 
 
   ## Contributing
 
 
-  all by myself
+  N/A
 
 
   ## Test
 
 
-  test test 1 2 3
+  Run the file through your terminal and test the functionality yourself
 
 
   ## License
