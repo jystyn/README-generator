@@ -48,7 +48,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, genMarkdown(data), (err) => {
-        err ? console.error(err) : console.log('Commit logged!')
+        err ? console.error(err) : console.log('Commit logged!');
     })
 }
 
